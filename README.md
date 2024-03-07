@@ -5,7 +5,9 @@ Welcome to the AI in Healthcare Projects Repository! This repository contains se
 ## Projects Overview
 
 ### 1. Breast Cancer Prediction using Machine Learning Classifiers
-- **Proposal:** This project aims to predict breast cancer using various machine learning classifiers. It involves preprocessing steps such as data cleaning, feature selection, and normalization. Then, different machine learning algorithms are applied to classify breast cancer based on input features.
+- **Proposal:**
+- This project aims to predict breast cancer using various machine learning classifiers. It involves preprocessing     steps such as data cleaning, feature selection, and normalization.
+- Then, different machine learning algorithms are applied including Logistic Regression, SVM and Random Forest Classifier to classify breast cancer based on input features.
 - **Description:** The project explores different machine learning classifiers such as Decision Trees, Random Forests, Support Vector Machines, etc., to predict breast cancer. It includes an in-depth analysis of the dataset, feature importance, and model evaluation metrics.
 
 ### 2. Heart Attack Prediction
